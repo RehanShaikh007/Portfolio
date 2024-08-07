@@ -2,7 +2,7 @@ import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
 import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
+import fitLift from '../../assets/netflix.png';
 import ProjectCard from '../../Common/ProjectCard';
 
 function Projects() {
@@ -30,9 +30,9 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://rehanshaikh007.github.io/youtubeUI/"
-          h3="YouTube UI Clone"
-          p="YouTube Landing Page"
+          link="https://mern-netflix-psi.vercel.app/"
+          h3="Netflix Clone"
+          p="Netflix MERN App"
         />
         
       </div>
