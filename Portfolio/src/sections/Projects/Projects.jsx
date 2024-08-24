@@ -4,6 +4,7 @@ import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/netflix.png';
 import ProjectCard from '../../Common/ProjectCard';
+import estate from "../../assets/estate.png"
 
 function Projects() {
   return (
@@ -33,6 +34,12 @@ function Projects() {
           link="https://mern-netflix-psi.vercel.app/"
           h3="Netflix Clone"
           p="Netflix MERN App"
+        />
+        <ProjectCard
+          src={estate}
+          link="https://mern-realestate-cb9h.onrender.com/"
+          h3="Premium Estate"
+          p="Properties Dealing App"
         />
         
       </div>
