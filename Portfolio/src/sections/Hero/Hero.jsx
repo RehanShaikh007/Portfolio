@@ -34,7 +34,7 @@ function Hero() {
                 <br />
                 Shaikh
             </h1>
-            <h2>Front End Developer</h2>
+            <h2>Full Stack Web Developer</h2>
             <span>
                 <a href="https://x.com/RehanSh95368063">
                 <img src={twitterIcon} alt="twitter icon" />

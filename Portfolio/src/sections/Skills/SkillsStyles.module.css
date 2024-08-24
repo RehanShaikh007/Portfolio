@@ -46,3 +46,9 @@
       width: 300px;
     }
   }
+
+  @media (width >= 320px) {
+     .skillList {
+       gap: 15px;
+     }
+  }
