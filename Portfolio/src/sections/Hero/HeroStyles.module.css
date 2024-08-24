@@ -100,3 +100,22 @@
       }
     }
   }
+
+  @media (width >= 320px) {
+     .info{
+      align-items: center;
+      margin-bottom: 10em;
+      margin: auto;
+      text-align: center;
+     }
+     .colorModeContainer{
+      margin-top: 10em;
+    
+     }
+     .colorMode{
+       margin-right: 5em;
+     }
+  
+  }
+
+  
